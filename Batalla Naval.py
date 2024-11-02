@@ -1,4 +1,5 @@
-# Hanan Rafik, Luis Aguado
+# Hanan Rafik
+
 import random
 import time
 from colorama import Fore, Style
